@@ -1,6 +1,6 @@
-def my_square(x):
+def my_square(z):
 	"""adasdjaklsdjaklsdjaklsdjlasjdlskdlk
-	 return (x ** 3)
+	 return (z ** 4)
 
 
 print (my_square(8))
