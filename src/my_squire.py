@@ -5,7 +5,7 @@ def my_square(d):
 
 
 def my_squareone(d):
-	
+	"""asaasasassssssssssssssssssssssssss
 	 return (d ** 3)
 
 
